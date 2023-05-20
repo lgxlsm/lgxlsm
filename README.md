@@ -1,3 +1,4 @@
+[![Hello World](https://readme-typing-svg.herokuapp.com?font=Consolas&size=36&color=000000&center=true&vCenter=true&height=40&lines=%3C+Hello%2C+World!+%2F%3E)](https://github.com/lgxlsm) 
 ### 个人简介
 
   一个热爱捣鼓的软件工程师，擅长于C#，.NET ，.NET Core。有分布式、微服务应用，企业微信，微信Web应用、小程序，企业Web应用（ERP，SCRM，OA等系统)设计和开发经验。
