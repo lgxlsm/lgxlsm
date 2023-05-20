@@ -1,9 +1,5 @@
 [![Hello World](https://readme-typing-svg.herokuapp.com?font=Consolas&size=36&color=000000&center=true&vCenter=true&height=40&lines=%3C+Hello%2C+World!+%2F%3E)](https://github.com/lgxlsm) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgxlsm&layout=compact)](https://github.com/lgxlsm)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=lgxlsm&layout=compact)](https://github.com/lgxlsm)
-
 ### 个人简介
 
   一个热爱捣鼓的软件工程师，擅长于C#，.NET ，.NET Core。有分布式、微服务应用，企业微信，微信Web应用、小程序，企业Web应用（ERP，SCRM，OA等系统)设计和开发经验。
@@ -18,5 +14,9 @@
 ### 生活有感
 
  我们都需要有被讨厌的勇气，不应该追求别人的认同，因为别人怎么看自己，那是别人的课题，而不是自己的课题，我们自需要为自己的课题负责，别人是无法左右我们的想法。只有清楚的割舍课题，我们才能自由的选择自己人生。
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgxlsm&layout=compact)](https://github.com/lgxlsm)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=lgxlsm&layout=compact)](https://github.com/lgxlsm)
 
   
