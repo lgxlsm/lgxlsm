@@ -13,7 +13,7 @@
 
 ### 生活有感
 
- 我们都需要有被讨厌的勇气，不应该追求别人的认同，因为别人怎么看自己，那是别人的课题，而不是自己的课题，我们只需要为自己的课题负责，别人是无法左右我们的想法。只有清楚的割舍课题，我们才能自由的选择自己人生。
+ 花有重开时，人无再少年。
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgxlsm&layout=compact)](https://github.com/lgxlsm)
 
